@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+}
+
+.entrada{
+    position: fixed;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    align-items: center;
+}
+
+.saida{
+    position: fixed;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(80, 130, 240);
+    align-items: center;
+}
